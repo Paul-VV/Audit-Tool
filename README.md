@@ -1,6 +1,8 @@
 # Audit-Tool
 An e-cornell certificate final python project containing a program that helps audit datasets which may include JSON and CSV files. This project is a multi-file application under the folder Auditor which is required to be initially executed for this python application. My role for this project was to design a program that helps automate auditing a year of fictional records from a flight school, inspecting weather conditions, record keeping conditions, timezone conditions, determining pilots, and indicating violations in these records. The app also includes CSV and JSON content reading functions. This project showcases all of the functions I designed, which displays my understanding of scripting in python and does not include all scripts/datasets needed to operate since I didn't design them. 
 
+All specifications/pseudocode are outlined by e-cornell
+
 This tool involves one main folder and four files:
 
 Folder = 
