@@ -17,7 +17,7 @@ Files =
 
 3. utils.py = This module determines the time of day, provides a copy of a table with the included id, and functions that help read content from JSON and CSV files
 
-4. violations.py = Module helps validate whether a flight lesson is violating the insurance regulations by checking for bad visibility, bad wind speed, bad cloud ceiling measurements, bad takeoff reports which get listed as a string in get_weather_violation to determine the type of violation, and list_weather_violations identifies which lists all flights that violate weather minimums from get_weather_violation
+4. violations.py = Module helps validate whether a flight lesson is violating the insurance regulations by checking for bad visibility, bad wind speed, bad cloud ceiling measurements, bad takeoff reports which get listed as a string in get_weather_violation to determine the type of violation, and list_weather_violations identifies which lists from all flights violate weather minimums from get_weather_violation
 
 
 Copyright Statement:
